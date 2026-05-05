@@ -3,6 +3,8 @@ Viral YT Title Generator
 An AI-powered web app that generates engaging, click-worthy YouTube titles to boost your video's CTR (Click-Through Rate) and reach.
 
 
+
+
 Overview
 
 Creating the perfect YouTube title is crucial — it often determines whether a viewer clicks or scrolls. High-performing titles use psychological triggers, keywords, and curiosity gaps to drive engagement .
